@@ -3,3 +3,6 @@ Esta es la historia de Pedro.
 este es mi primer repositorio.
 
 Moficicación después de checkout.
+
+
+Vamos a probar lo aprendido.
